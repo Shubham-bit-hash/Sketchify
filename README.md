@@ -12,4 +12,4 @@ and Run:
 ```sh
 python main.py
 ```
-now you can able to use thgis software.
+now you can able to use this software.
