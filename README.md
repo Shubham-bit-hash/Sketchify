@@ -1,6 +1,6 @@
 # project-2-Camera-using-python
 This project can capture your image and convert it in cartoon or in sketch.
-# First pf all Download all dependencies :
+# First of all Download all dependencies :
 ```sh
 pip install opencv-python
 pip install pillow (PIL)
