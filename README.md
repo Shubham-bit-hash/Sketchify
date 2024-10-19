@@ -1,4 +1,4 @@
-Sketchify(image to sketch)
+# Sketchify(image to sketch)
 This project can capture your image and convert it in cartoon or in sketch.
 # First of all Download all dependencies :
 ```sh
